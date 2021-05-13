@@ -1,0 +1,33 @@
+(V_VM) 19246
+('V_VM', 'V_VAUX') 11197
+('V_VM', 'PSP', 'PSP') 1190
+('V_VM', 'PSP') 4253
+('V_VM', 'V_VAUX', 'V_VAUX') 5966
+('V_VM', 'PSP', 'PSP', 'RD_SYM') 1
+('V_VM', 'RP_NEG', 'V_VAUX', 'V_VAUX') 19
+('V_VM', 'RP_RPD') 236
+('V_VM', 'PSP', 'N_NST') 394
+('V_VM', 'V_VAUX', 'RP_RPD') 43
+('V_VM', 'V_VAUX', 'RD_PUNC') 548
+('V_VM', 'RD_PUNC') 874
+('V_VM', 'V_VAUX', 'V_VAUX', 'V_VAUX') 926
+('V_VM', 'RP_RPD', 'V_VAUX', 'V_VAUX') 20
+('V_VM', 'V_VAUX', 'V_VAUX', 'RD_PUNC') 308
+('V_VM', 'V_VAUX', 'V_VM') 10
+('V_VM', 'RP_RPD', 'RP_NEG', 'V_VAUX') 7
+('V_VM', 'RD_SYM', 'V_VM') 28
+('V_VM', 'V_VAUX', 'RD_SYM') 13
+('V_VM', 'V_VM', 'V_VAUX') 13
+('V_VM', 'V_VM', 'V_VAUX', 'V_VAUX') 5
+('V_VM', 'PSP', 'PSP', 'PSP') 75
+('V_VM', 'PSP', 'N_NST', 'RP_RPD') 74
+('V_VM', 'V_VAUX', 'PSP') 466
+('V_VM', 'PSP', 'PSP', 'RP_RPD') 32
+('V_VM', 'PSP', 'N_NST', 'RD_PUNC') 1
+('V_VM', 'RD_SYM') 41
+('V_VM', 'V_VAUX', 'V_VAUX', 'RD_SYM') 2
+('V_VM', 'PSP', 'N_NST', 'PSP') 11
+('V_VM', 'V_VAUX', 'PSP', 'N_NST') 48
+('V_VM', 'V_VM') 20
+('V_VM', 'RD_SYM', 'V_VAUX') 2
+

@@ -1,0 +1,505 @@
+['N_NN', 'N_NNP', 'PSP'] 500
+['QT_QTC', 'N_NST'] 54
+['N_NN'] 23977
+['N_NST', 'PSP'] 254
+['QT_QTC', 'N_NN'] 1231
+['N_NN', 'N_NN'] 3160
+['JJ', 'N_NN', 'N_NN', 'PSP'] 538
+['QT_QTC', 'N_NN', 'N_NN'] 398
+['JJ', 'N_NN'] 3388
+['QT_QTC', 'N_NN', 'PSP'] 1597
+['JJ', 'N_NN', 'PSP'] 4277
+['N_NN', 'PSP'] 21259
+['N_NNP', 'N_NNP', 'PSP', 'N_NST'] 435
+['DM_DMD', 'JJ', 'N_NN'] 51
+['N_NNP', 'N_NNP', 'PSP'] 8354
+['N_NNP', 'N_NNP', 'RP_RPD'] 140
+['N_NNP', 'PSP'] 10761
+['JJ', 'JJ', 'N_NN'] 128
+['N_NN', 'N_NN', 'PSP'] 5438
+['DM_DMD', 'N_NN', 'PSP', 'N_NST', 'RD_SYM', 'N_NST', 'PSP'] 3
+['QT_QTC', 'N_NN', 'N_NN', 'RD_PUNC'] 16
+['N_NN', 'N_NN', 'RD_PUNC'] 182
+['N_NN', 'N_NN', 'PSP', 'PSP'] 408
+['N_NN', 'RD_PUNC'] 513
+['QT_QTC', 'N_NN', 'RD_PUNC'] 29
+['N_NN', 'RP_RPD'] 819
+['N_NNP', 'PSP', 'PSP'] 280
+['QT_QTC', 'JJ', 'N_NN'] 263
+['JJ', 'N_NN', 'PSP', 'N_NST'] 436
+['QT_QTC', 'JJ', 'N_NN', 'PSP'] 283
+['QT_QTC', 'RP_RPD', 'N_NN'] 18
+['N_NN', 'PSP', 'N_NST'] 2204
+['DM_DMD', 'N_NN', 'PSP'] 2720
+['N_NST', 'RD_SYM', 'N_NST', 'RP_RPD'] 4
+['JJ', 'RD_SYM', 'JJ', 'N_NN', 'RD_PUNC'] 2
+['N_NNP'] 3846
+['N_NNP', 'N_NNP', 'N_NNP'] 1731
+['N_NNP', 'RD_PUNC'] 738
+['DM_DMD', 'N_NN', 'RP_RPD'] 49
+['N_NN', 'RD_SYM', 'N_NN'] 590
+['DM_DMD', 'N_NN', 'N_NN'] 46
+['QT_QTF', 'N_NN'] 705
+['N_NNP', 'N_NNP'] 2448
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP'] 684
+['JJ', 'N_NN', 'N_NN'] 396
+['N_NNP', 'RD_SYM', 'N_NNP', 'N_NN', 'N_NN', 'PSP'] 40
+['N_NNP', 'PSP', 'N_NST'] 766
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 1396
+['RP_RPD', 'N_NN'] 36
+['N_NN', 'N_NN', 'N_NST', 'RD_PUNC'] 3
+['N_NNP', 'N_NN', 'PSP'] 2542
+['DM_DMD', 'N_NN'] 1631
+['N_NNP', 'N_NN'] 1036
+['N_NNP', 'N_NNP', 'PSP', 'PSP'] 296
+['PR_PRP', 'N_NST', 'PSP'] 21
+['N_NN', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 372
+['N_NST', 'PSP', 'RP_RPD'] 30
+['PR_PRP', 'N_NN', 'PSP'] 187
+['V_VM', 'PSP', 'N_NST'] 392
+['RP_INTF', 'JJ', 'N_NN'] 100
+['N_NST', 'PSP', 'N_NST'] 12
+['N_NST'] 544
+['N_NNP', 'N_NN', 'PSP', 'N_NST'] 240
+['N_NN', 'N_NNP', 'N_NNP', 'PSP'] 345
+['JJ', 'N_NN', 'PSP', 'PSP', 'PSP'] 113
+['JJ', 'N_NN', 'RD_PUNC'] 67
+['N_NN', 'PSP', 'PSP'] 1682
+['N_NN', 'N_NN', 'PSP', 'PSP', 'PSP'] 76
+['PR_PRP', 'N_NST', 'RD_SYM', 'N_NST', 'PSP'] 8
+['DM_DMD', 'N_NN', 'PSP', 'N_NST'] 142
+['QT_QTF', 'JJ', 'RD_SYM', 'JJ', 'N_NN'] 3
+['PR_PRP', 'PSP', 'N_NST'] 11
+['N_NST', 'RP_RPD', 'N_NST'] 4
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'RD_PUNC'] 176
+['N_NNP', 'N_NNP', 'RD_PUNC'] 878
+['JJ', 'N_NN', 'PSP', 'PSP'] 405
+['JJ', 'RP_RPD', 'N_NN'] 11
+['PR_PRL', 'N_NST'] 13
+['QT_QTF', 'RP_RPD', 'N_NN'] 37
+['N_NN', 'PSP', 'RP_RPD'] 537
+['QT_QTF', 'JJ', 'N_NN'] 114
+['QT_QTC', 'JJ', 'N_NN', 'PSP', 'PSP', 'PSP'] 5
+['JJ', 'N_NNP', 'PSP'] 149
+['DM_DMD', 'JJ', 'N_NN', 'PSP'] 144
+['N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 3984
+['N_NNP', 'N_NNP', 'N_NNP', 'RD_PUNC'] 450
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'RD_PUNC'] 12
+['PR_PRP', 'N_NST'] 471
+['N_NN', 'N_NN', 'RP_RPD'] 104
+['RD_SYM', 'QT_QTC', 'N_NN', 'RD_SYM'] 2
+['N_NNP', 'RD_SYM', 'N_NNP', 'JJ', 'N_NN', 'PSP'] 3
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP'] 375
+['JJ', 'N_NNP', 'N_NNP'] 68
+['QT_QTC', 'N_NN', 'N_NN', 'PSP'] 356
+['QT_QTF', 'N_NN', 'PSP'] 700
+['N_NN', 'RD_SYM', 'N_NN', 'N_NN', 'RD_PUNC'] 6
+['N_NN', 'N_NNP'] 252
+['N_NN', 'N_NN', 'N_NNP', 'N_NNP', 'PSP'] 288
+['N_NN', 'N_NNP', 'N_NNP'] 162
+['JJ', 'N_NNP', 'N_NNP', 'N_NNP', 'RP_RPD'] 3
+['RP_RPD', 'QT_QTC', 'N_NN', 'N_NST'] 42
+['QT_QTC', 'N_NN', 'PSP', 'PSP'] 119
+['RP_RPD', 'QT_QTC', 'N_NN', 'PSP'] 55
+['JJ', 'QT_QTC', 'N_NN', 'PSP'] 111
+['RP_RPD', 'QT_QTC', 'N_NN'] 90
+['N_NN', 'RP_RPD', 'PSP'] 149
+['QT_QTO', 'N_NST'] 51
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP', 'PSP'] 76
+['N_NN', 'PSP', 'N_NST', 'PSP'] 182
+['RD_SYM', 'N_NN', 'RD_SYM'] 46
+['N_NN', 'RD_SYM', 'N_NN', 'PSP'] 542
+['JJ', 'JJ', 'N_NN', 'PSP'] 279
+['N_NN', 'RD_SYM', 'N_NN', 'PSP', 'N_NST'] 51
+['RP_INTF', 'JJ', 'N_NN', 'N_NN'] 20
+['JJ', 'N_NNP', 'N_NN', 'PSP'] 94
+['N_NNP', 'N_NN', 'PSP', 'PSP'] 130
+['JJ', 'QT_QTC', 'N_NNP', 'N_NN'] 2
+['QT_QTC', 'QT_QTO', 'RP_RPD', 'N_NN', 'PSP'] 1
+['DM_DMD', 'JJ', 'RD_SYM', 'JJ', 'RD_PUNC', 'JJ', 'N_NN', 'PSP'] 1
+['N_NN', 'N_NN', 'PSP', 'N_NST', 'RP_RPD'] 39
+['RD_PUNC', 'N_NN', 'N_NN', 'RD_PUNC', 'PSP'] 26
+['QT_QTO', 'N_NN', 'PSP'] 211
+['RP_RPD', 'QT_QTC', 'N_NN', 'PSP', 'PSP'] 5
+['JJ', 'N_NN', 'RD_SYM'] 6
+['N_NNP', 'N_NNP', 'N_NNP', 'RD_SYM'] 3
+['N_NST', 'N_NST'] 4
+['QT_QTF', 'JJ', 'N_NN', 'PSP'] 118
+['N_NN', 'PSP', 'PSP', 'PSP'] 311
+['QT_QTC', 'RP_INTF', 'JJ', 'N_NN'] 5
+['JJ', 'N_NN', 'PSP', 'N_NST', 'RD_SYM', 'N_NST'] 18
+['PR_PRP', 'N_NST', 'RP_RPD'] 112
+['QT_QTF', 'QT_QTF', 'JJ', 'JJ', 'N_NN'] 1
+['N_NN', 'PSP', 'N_NST', 'RD_SYM', 'N_NST'] 33
+['JJ', 'N_NN', 'N_NN', 'RP_RPD'] 12
+['N_NN', 'RD_SYM'] 13
+['JJ', 'RD_SYM', 'JJ', 'N_NN', 'RD_SYM'] 1
+['PR_PRP', 'JJ', 'N_NN'] 65
+['QT_QTF', 'N_NN', 'PSP', 'N_NST'] 56
+['RP_RPD', 'QT_QTC', 'QT_QTC', 'N_NN'] 42
+['QT_QTO', 'JJ', 'N_NN'] 18
+['RP_RPD', 'N_NST'] 4
+['DM_DMD', 'N_NN', 'N_NN', 'PSP'] 126
+['N_NNP', 'PSP', 'RP_RPD', 'PSP'] 1
+['RD_PUNC', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'RD_PUNC'] 32
+['JJ', 'RD_SYM', 'JJ', 'N_NN', 'PSP'] 53
+['RP_RPD', 'N_NNP', 'RD_SYM', 'N_NNP', 'RD_PUNC'] 2
+['N_NNP', 'N_NNP', 'RP_RPD', 'PSP'] 8
+['RP_RPD', 'N_NN', 'RP_RPD'] 5
+['RD_PUNC', 'N_NNP', 'N_NNP', 'N_NNP', 'RD_PUNC'] 36
+['N_NN', 'N_NN', 'N_NN'] 333
+['QT_QTF', 'JJ', 'JJ', 'N_NN', 'N_NN'] 2
+['JJ', 'JJ', 'N_NNP', 'N_NNP', 'N_NNP'] 9
+['N_NST', 'RD_SYM', 'N_NST', 'PSP'] 26
+['N_NNP', 'RD_SYM', 'N_NNP', 'PSP'] 342
+['JJ', 'N_NN', 'N_NN', 'PSP', 'PSP'] 52
+['JJ', 'JJ', 'N_NN', 'N_NN', 'N_NN'] 3
+['QT_QTF', 'N_NST'] 18
+['N_NNP', 'RP_RPD'] 92
+['RP_INTF', 'JJ', 'N_NN', 'PSP'] 35
+['RD_PUNC', 'N_NNP', 'N_NNP', 'RD_PUNC'] 30
+['JJ', 'RD_SYM', 'JJ', 'N_NN'] 46
+['V_VM', 'PSP', 'N_NST', 'RP_RPD'] 72
+['JJ', 'N_NNP'] 80
+['RD_PUNC', 'N_NNP', 'RD_PUNC', 'N_NN', 'PSP'] 12
+['N_NNP', 'N_NNP', 'RD_SYM'] 6
+['JJ', 'N_NN', 'RP_RPD'] 107
+['N_NNP', 'N_NNP', 'N_NNP', 'PSP', 'PSP'] 198
+['PR_PRP', 'RP_RPD', 'N_NN', 'PSP'] 77
+['QT_QTC', 'QT_QTC', 'N_NN', 'PSP'] 185
+['DM_DMD', 'JJ', 'JJ', 'JJ', 'N_NN', 'PSP'] 2
+['PR_PRQ', 'N_NN', 'PSP'] 34
+['PR_PRQ', 'N_NST'] 1
+['N_NNP', 'PSP', 'RD_PUNC'] 2
+['N_NNP', 'RP_RPD', 'PSP'] 11
+['N_NN', 'RD_SYM', 'RP_RPD'] 1
+['DM_DMD', 'QT_QTF', 'N_NN'] 16
+['JJ', 'N_NN', 'RD_SYM', 'N_NN', 'RD_PUNC'] 2
+['JJ', 'JJ', 'JJ', 'N_NN'] 3
+['QT_QTO', 'N_NN'] 213
+['DM_DMD', 'N_NN', 'N_NN', 'PSP', 'N_NST', 'RD_SYM', 'N_NST'] 4
+['QT_QTC', 'N_NN', 'N_NST'] 216
+['N_NN', 'N_NN', 'N_NNP', 'PSP'] 54
+['RP_RPD', 'QT_QTC', 'QT_QTC', 'N_NN', 'PSP'] 21
+['N_NST', 'RD_SYM', 'N_NST'] 30
+['JJ', 'DM_DMD', 'N_NN', 'PSP'] 3
+['QT_QTF', 'N_NN', 'N_NST', 'RP_RPD'] 18
+['PR_PRF', 'N_NST'] 36
+['QT_QTC', 'N_NN', 'PSP', 'RP_RPD'] 45
+['N_NNP', 'N_NNP', 'PSP', 'PSP', 'PSP', 'RP_RPD'] 4
+['N_NNP', 'RD_SYM', 'N_NNP', 'RD_SYM', 'N_NNP'] 36
+['RP_RPD', 'QT_QTC', 'N_NN', 'N_NN', 'PSP'] 14
+['N_NN', 'N_NNP', 'N_NN', 'PSP'] 15
+['N_NNP', 'PSP', 'PSP', 'RP_RPD'] 7
+['JJ', 'RP_RPD', 'N_NN', 'PSP'] 5
+['RD_PUNC', 'N_NNP', 'RD_PUNC', 'PSP', 'N_NST', 'RP_RPD'] 2
+['QT_QTC', 'JJ', 'JJ', 'N_NN', 'PSP'] 26
+['RD_SYM', 'JJ', 'N_NNP', 'RD_SYM'] 1
+['N_NN', 'RD_SYM', 'N_NN', 'RD_PUNC'] 38
+['N_NN', 'RP_RPD', 'PSP', 'PSP', 'PSP'] 1
+['N_NN', 'N_NNP', 'N_NNP', 'RD_PUNC'] 57
+['QT_QTO', 'N_NN', 'PSP', 'N_NST'] 6
+['DM_DMD', 'N_NN', 'RD_PUNC'] 3
+['PR_PRP', 'PR_PRP', 'PSP', 'N_NST'] 1
+['DM_DMD', 'QT_QTC', 'N_NN'] 25
+['QT_QTC', 'RP_RPD', 'N_NN', 'PSP'] 15
+['QT_QTF', 'N_NN', 'N_NN'] 60
+['N_NN', 'PSP', 'RP_RPD', 'N_NST'] 16
+['RD_SYM', 'N_NNP', 'RD_SYM'] 354
+['PR_PRP', 'RP_RPD', 'N_NN'] 48
+['N_NNP', 'RD_SYM', 'N_NNP', 'N_NN', 'PSP'] 153
+['QT_QTC', 'JJ', 'RP_RPD', 'N_NN', 'N_NN', 'RP_RPD'] 2
+['JJ', 'N_NN', 'PSP', 'RP_RPD'] 120
+['N_NNP', 'N_NNP', 'PSP', 'N_NST', 'PSP'] 99
+['N_NNP', 'N_NNP', 'PSP', 'RP_RPD'] 204
+['DM_DMD', 'RP_RPD', 'N_NN'] 24
+['PR_PRQ', 'RD_SYM', 'RP_RPD', 'N_NN'] 1
+['PR_PRQ', 'N_NN'] 78
+['N_NN', 'PSP', 'RD_PUNC'] 7
+['RD_PUNC', 'N_NN'] 12
+['JJ', 'N_NST'] 35
+['QT_QTC', 'JJ', 'RD_SYM', 'RP_RPD', 'JJ', 'N_NN', 'RP_RPD'] 1
+['RD_PUNC', 'N_NNP', 'PSP'] 16
+['V_VM', 'PSP', 'N_NST', 'RD_PUNC'] 1
+['DM_DMD', 'QT_QTC', 'JJ', 'N_NN', 'PSP'] 7
+['JJ', 'N_NN', 'RD_SYM', 'N_NN', 'PSP'] 40
+['DM_DMD', 'N_NN', 'PSP', 'PSP'] 116
+['JJ', 'N_NNP', 'N_NN'] 48
+['DM_DMD', 'N_NN', 'PSP', 'N_NST', 'RP_RPD'] 8
+['RD_PUNC', 'N_NNP', 'N_NNP', 'RD_PUNC', 'PSP'] 94
+['N_NNP', 'N_NNP', 'PSP', 'PSP', 'RP_RPD'] 16
+['QT_QTC', 'N_NNP', 'N_NNP', 'RP_RPD'] 2
+['QT_QTO', 'N_NN', 'N_NN'] 32
+['PR_PRP', 'JJ', 'JJ', 'N_NN', 'PSP'] 4
+['QT_QTF', 'DM_DMD', 'N_NN'] 4
+['QT_QTC', 'QT_QTF', 'JJ', 'N_NN'] 11
+['N_NN', 'N_NN', 'PSP', 'N_NST', 'PSP'] 45
+['QT_QTF', 'N_NST', 'PSP'] 7
+['QT_QTC', 'JJ', 'RD_SYM', 'RP_RPD', 'N_NNP', 'N_NNP'] 2
+['QT_QTF', 'N_NN', 'PSP', 'PSP'] 37
+['PR_PRP', 'N_NN', 'N_NN', 'PSP'] 10
+['DM_DMD', 'N_NST'] 131
+['QT_QTF', 'QT_QTC', 'N_NN', 'N_NN'] 20
+['N_NN', 'RD_PUNC', 'N_NN', 'RD_PUNC'] 2
+['N_NNP', 'PSP', 'N_NST', 'RP_RPD'] 26
+['DM_DMD', 'QT_QTF', 'N_NN', 'PSP'] 18
+['JJ', 'RP_RPD', 'JJ', 'N_NN'] 2
+['N_NN', 'N_NNP', 'PSP', 'N_NST', 'RP_RPD'] 6
+['QT_QTC', 'JJ', 'N_NN', 'PSP', 'PSP'] 24
+['QT_QTC', 'QT_QTC', 'JJ', 'RD_SYM', 'JJ', 'N_NN'] 1
+['QT_QTF', 'N_NN', 'RD_SYM', 'N_NN', 'PSP'] 8
+['PR_PRP', 'N_NN', 'PSP', 'PSP'] 8
+['RD_SYM', 'N_NN', 'PSP'] 5
+['N_NNP', 'RD_SYM'] 8
+['JJ', 'DM_DMD', 'N_NN'] 1
+['N_NNP', 'PSP', 'PSP', 'PSP'] 46
+['QT_QTF', 'N_NN', 'N_NN', 'PSP'] 74
+['JJ', 'N_NN', 'RD_SYM', 'N_NN', 'N_NN', 'N_NN', 'PSP'] 4
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'RP_RPD'] 44
+['PR_PRP', 'N_NN'] 526
+['RP_INTF', 'QT_QTF', 'N_NN'] 37
+['N_NN', 'RD_SYM', 'N_NN', 'N_NN'] 33
+['DM_DMD', 'QT_QTC', 'N_NN', 'PSP'] 43
+['N_NN', 'N_NN', 'PSP', 'N_NST'] 378
+['N_NNP', 'N_NN', 'PSP', 'N_NST', 'PSP'] 39
+['RP_INTF', 'RP_RPD', 'JJ', 'N_NN'] 1
+['RD_PUNC', 'N_NNP', 'N_NNP'] 6
+['N_NNP', 'N_NNP', 'N_NN', 'PSP'] 399
+['RD_PUNC', 'N_NNP', 'RD_PUNC'] 13
+['QT_QTC', 'JJ', 'N_NN', 'RP_RPD'] 10
+['N_NNP', 'N_NN', 'PSP', 'PSP', 'PSP'] 16
+['RD_SYM', 'N_NN', 'RD_SYM', 'N_NN', 'N_NN', 'RD_SYM'] 3
+['N_NNP', 'PSP', 'N_NST', 'PSP'] 132
+['QT_QTF', 'JJ', 'RP_RPD', 'N_NN'] 1
+['DM_DMD', 'N_NN', 'PSP', 'RP_RPD'] 62
+['V_VM', 'PSP', 'N_NST', 'PSP'] 11
+['QT_QTC', 'JJ', 'RD_SYM', 'JJ', 'N_NN'] 3
+['QT_QTC', 'N_NN', 'PSP', 'N_NST', 'PSP'] 18
+['JJ', 'N_NN', 'PSP', 'RP_RPD', 'N_NST'] 6
+['N_NNP', 'N_NNP', 'PSP', 'PSP', 'PSP'] 52
+['N_NST', 'RP_RPD'] 205
+['N_NN', 'PSP', 'N_NST', 'RP_RPD'] 96
+['N_NST', 'N_NN', 'PSP'] 8
+['RP_RPD', 'QT_QTF', 'JJ', 'N_NN', 'PSP', 'PSP'] 1
+['N_NNP', 'N_NNP', 'PSP', 'N_NST', 'PSP', 'RP_RPD'] 6
+['N_NNP', 'N_NN', 'RD_PUNC'] 20
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP', 'N_NST', 'PSP'] 45
+['RD_PUNC', 'N_NN', 'RD_PUNC'] 15
+['DM_DMD', 'PR_PRP', 'N_NST'] 1
+['QT_QTC', 'QT_QTC', 'QT_QTC', 'N_NN'] 8
+['RP_INTF', 'JJ', 'N_NNP', 'N_NN'] 2
+['N_NNP', 'RD_PUNC', 'N_NNP', 'N_NNP', 'PSP', 'RP_RPD', 'PSP'] 3
+['QT_QTC', 'JJ', 'N_NN', 'N_NN'] 36
+['QT_QTC', 'JJ', 'N_NN', 'N_NN', 'PSP'] 86
+['QT_QTC', 'JJ', 'JJ', 'N_NN'] 16
+['RP_RPD', 'N_NNP', 'PSP'] 18
+['QT_QTC', 'QT_QTF', 'RP_RPD', 'JJ', 'N_NN'] 2
+['N_NNP', 'RD_SYM', 'N_NNP'] 112
+['QT_QTF', 'N_NN', 'RP_RPD'] 22
+['N_NN', 'N_NN', 'RD_SYM', 'RP_RPD'] 2
+['RD_SYM', 'N_NNP', 'RD_PUNC'] 2
+['N_NN', 'N_NNP', 'PSP', 'PSP', 'PSP'] 4
+['N_NN', 'N_NN', 'N_NNP', 'PSP', 'PSP', 'RP_RPD'] 3
+['N_NN', 'N_NNP', 'PSP', 'N_NST'] 18
+['JJ', 'RD_SYM', 'JJ', 'RD_SYM', 'N_NN', 'PSP'] 1
+['N_NN', 'RD_SYM', 'N_NN', 'PSP', 'PSP'] 42
+['DM_DMD', 'JJ', 'N_NN', 'PSP', 'N_NST'] 20
+['JJ', 'JJ', 'N_NN', 'N_NN', 'PSP'] 26
+['QT_QTC', 'N_NNP', 'N_NN'] 10
+['N_NN', 'PSP', 'PSP', 'PSP', 'RP_RPD'] 11
+['QT_QTF', 'JJ', 'JJ', 'N_NN', 'PSP'] 11
+['N_NN', 'N_NST'] 48
+['JJ', 'N_NN', 'RD_SYM', 'N_NN'] 56
+['N_NNP', 'PSP', 'RP_RPD'] 192
+['JJ', 'N_NN', 'N_NN', 'PSP', 'PSP', 'RP_RPD'] 4
+['JJ', 'N_NNP', 'PSP', 'RP_RPD'] 4
+['N_NN', 'N_NN', 'PSP', 'RP_RPD'] 112
+['V_VM', 'V_VAUX', 'PSP', 'N_NST'] 45
+['JJ', 'RD_SYM', 'N_NN', 'PSP'] 6
+['N_NN', 'N_NN', 'N_NN', 'N_NN', 'N_NN', 'PSP'] 15
+['N_NN', 'N_NN', 'N_NN', 'N_NN', 'RD_PUNC'] 12
+['PR_PRQ', 'RP_RPD', 'N_NN'] 10
+['JJ', 'RD_SYM', 'JJ', 'N_NN', 'PSP', 'RP_RPD'] 1
+['N_NN', 'RP_RPD', 'N_NST'] 14
+['PR_PRQ', 'V_VM', 'N_NN'] 1
+['N_NN', 'RP_RPD', 'N_NN'] 14
+['QT_QTF', 'RP_RPD', 'N_NN', 'PSP'] 17
+['QT_QTC', 'N_NST', 'PSP'] 15
+['DM_DMD', 'PR_PRQ', 'N_NN'] 1
+['RP_RPD', 'N_NN', 'N_NN'] 4
+['QT_QTC', 'RD_SYM', 'QT_QTC', 'N_NN'] 25
+['JJ', 'N_NN', 'RP_RPD', 'RP_RPD'] 4
+['PR_PRP', 'N_NN', 'RP_RPD'] 20
+['JJ', 'N_NN', 'N_NN', 'PSP', 'RP_RPD'] 10
+['JJ', 'N_NN', 'N_NN', 'PSP', 'N_NST'] 48
+['QT_QTC', 'RD_SYM', 'QT_QTC', 'N_NN', 'PSP'] 29
+['N_NN', 'RD_SYM', 'N_NN', 'N_NN', 'PSP', 'PSP'] 6
+['QT_QTC', 'JJ', 'RP_RPD', 'N_NN'] 2
+['N_NN', 'RD_SYM', 'N_NN', 'PSP', 'PSP', 'PSP'] 10
+['N_NN', 'RP_RPD', 'PSP', 'N_NST'] 4
+['DM_DMD', 'N_NNP'] 4
+['QT_QTC', 'N_NN', 'RP_RPD'] 68
+['QT_QTC', 'QT_QTC', 'N_NN'] 193
+['QT_QTC', 'N_NN', 'PSP', 'N_NST'] 358
+['PR_PRQ', 'JJ', 'N_NN'] 3
+['N_NN', 'RD_SYM', 'N_NN', 'RD_SYM', 'N_NN'] 21
+['N_NN', 'N_NN', 'RD_SYM', 'N_NN', 'RD_SYM', 'N_NN', 'PSP'] 4
+['V_VM', 'PSP', 'PSP', 'N_NST'] 1
+['JJ', 'N_NN', 'RD_SYM', 'N_NN', 'PSP', 'N_NST'] 6
+['JJ', 'RD_SYM', 'JJ', 'JJ', 'N_NN'] 2
+['JJ', 'RD_SYM', 'JJ', 'JJ', 'N_NN', 'PSP', 'N_NST', 'RP_RPD'] 2
+['JJ', 'RD_SYM', 'JJ', 'JJ', 'N_NN', 'PSP'] 2
+['QT_QTF', 'RP_RPD', 'N_NN', 'RD_SYM', 'N_NN'] 2
+['JJ', 'PR_PRP', 'N_NN'] 2
+['N_NN', 'RD_SYM', 'N_NN', 'RD_SYM', 'N_NN', 'RP_RPD'] 3
+['JJ', 'N_NN', 'PSP', 'RP_RPD', 'RP_RPD'] 1
+['N_NN', 'RD_SYM', 'N_NN', 'RD_SYM', 'N_NN', 'PSP'] 6
+['N_NN', 'RP_RPD', 'RP_RPD'] 12
+['PR_PRP', 'RP_RPD', 'PR_PRP', 'N_NN', 'PSP'] 6
+['N_NN', 'RD_UNK'] 2
+['N_NN', 'PSP', 'PSP', 'RP_RPD'] 38
+['JJ', 'N_NN', 'RP_RPD', 'PSP'] 2
+['PR_PRP', 'JJ', 'N_NN', 'PSP'] 31
+['DM_DMD', 'N_NN', 'PSP', 'PSP', 'PSP'] 14
+['JJ', 'JJ', 'RD_SYM', 'JJ', 'N_NN', 'PSP'] 1
+['N_NN', 'RP_RPD', 'PSP', 'RP_RPD'] 4
+['DM_DMD', 'N_NN', 'N_NNP'] 2
+['N_NN', 'RP_RPD', 'N_NST', 'RP_RPD'] 6
+['DM_DMD', 'QT_QTC', 'N_NN', 'N_NN'] 2
+['JJ', 'RD_SYM', 'JJ', 'QT_QTF', 'N_NN', 'PSP'] 1
+['N_NN', 'QT_QTC', 'N_NN', 'N_NST'] 3
+['RP_INJ', 'N_NN'] 9
+['PR_PRP', 'JJ', 'N_NN', 'PSP', 'PSP'] 1
+['RP_RPD', 'DM_DMD', 'N_NN'] 7
+['PR_PRP', 'N_NN', 'PSP', 'RP_RPD'] 3
+['QT_QTC', 'N_NN', 'RD_SYM', 'N_NN', 'PSP'] 6
+['DM_DMD', 'QT_QTC', 'N_NN', 'RD_SYM', 'N_NN', 'PSP'] 2
+['N_NN', 'N_NNP', 'RP_RPD'] 6
+['PR_PRP', 'QT_QTO', 'N_NN', 'PSP'] 8
+['RP_RPD', 'N_NN', 'RP_RPD', 'PSP'] 1
+['N_NN', 'N_NN', 'N_NN', 'PSP'] 579
+['PR_PRQ', 'RD_SYM', 'PR_PRQ', 'JJ', 'N_NN'] 1
+['QT_QTF', 'N_NN', 'N_NST'] 76
+['QT_QTC', 'DM_DMD', 'JJ', 'N_NN', 'PSP'] 1
+['PR_PRP', 'N_NN', 'N_NN', 'RP_RPD'] 4
+['JJ', 'JJ', 'JJ', 'N_NN', 'RP_RPD'] 1
+['N_NN', 'N_NN', 'RP_RPD', 'PSP'] 10
+['PR_PRP', 'N_NN', 'N_NN'] 28
+['N_NN', 'RD_SYM', 'N_NN', 'RP_RPD'] 26
+['QT_QTC', 'RD_SYM', 'QT_QTC', 'JJ', 'RD_SYM', 'JJ', 'N_NN'] 1
+['PR_PRQ', 'JJ', 'N_NN', 'PSP'] 3
+['QT_QTF', 'RP_RPD', 'N_NN', 'RP_RPD'] 1
+['RP_RPD', 'DM_DMD', 'QT_QTC', 'N_NN'] 1
+['PR_PRQ', 'RP_RPD', 'N_NN', 'PSP'] 1
+['DM_DMD', 'QT_QTC', 'N_NN', 'RP_RPD'] 1
+['JJ', 'QT_QTC', 'N_NN'] 17
+['QT_QTF', 'QT_QTF', 'DM_DMD', 'N_NN'] 1
+['N_NNP', 'RD_SYM', 'N_NNP', 'RP_RPD'] 4
+['N_NN', 'N_NN', 'PSP', 'PSP', 'RP_RPD'] 20
+['QT_QTF', 'N_NNP', 'PSP'] 3
+['JJ', 'V_VAUX', 'N_NN'] 1
+['N_NN', 'RP_RPD', 'PSP', 'PSP'] 7
+['RP_RPD', 'QT_QTC', 'RP_RPD', 'N_NN'] 1
+['N_NN', 'RD_SYM', 'N_NN', 'PSP', 'RP_RPD'] 10
+['DM_DMD', 'N_NN', 'RD_SYM', 'N_NN', 'PSP'] 8
+['N_NNP', 'N_NN', 'RP_RPD'] 32
+['QT_QTO', 'QT_QTF', 'PR_PRP', 'N_NN'] 1
+['DM_DMD', 'N_NN', 'RD_SYM', 'N_NN'] 4
+['JJ', 'JJ', 'N_NNP'] 3
+['JJ', 'JJ', 'N_NN', 'RD_SYM', 'N_NN', 'PSP'] 6
+['DM_DMD', 'RD_SYM', 'N_NN', 'N_NN', 'PSP'] 2
+['RP_RPD', 'N_NN', 'PSP'] 35
+['PR_PRQ', 'RP_RPD', 'DM_DMD', 'N_NN'] 1
+['DM_DMD', 'QT_QTC', 'N_NN', 'N_NN', 'PSP', 'PSP', 'RP_RPD'] 2
+['RP_INTF', 'QT_QTF', 'JJ', 'N_NN'] 5
+['N_NN', 'N_NNP', 'RP_RPD', 'PSP', 'RP_RPD'] 2
+['N_NNP', 'RP_RPD', 'PSP', 'N_NST'] 2
+['QT_QTF', 'N_NN', 'PSP', 'RP_RPD'] 23
+['PR_PRP', 'N_NN', 'PSP', 'N_NST'] 6
+['JJ', 'QT_QTF', 'N_NN', 'PSP'] 37
+['PR_PRQ', 'JJ', 'RD_SYM', 'JJ', 'N_NN'] 1
+['N_NN', 'N_NN', 'N_NN', 'RP_RPD'] 6
+['N_NST', 'PSP', 'PSP'] 15
+['N_NNP', 'N_NNP', 'N_NNP', 'RP_RPD', 'PSP'] 12
+['JJ', 'N_NN', 'PSP', 'N_NST', 'RP_RPD'] 14
+['JJ', 'JJ', 'N_NN', 'RP_RPD'] 5
+['PR_PRP', 'N_NST', 'N_NST'] 2
+['RP_INJ', 'N_NN', 'RD_PUNC'] 1
+['N_NN', 'PSP', 'PSP', 'RP_RPD', 'RP_RPD'] 1
+['JJ', 'N_NST', 'PSP'] 1
+['RP_INJ', 'N_NN', 'PSP'] 2
+['PSP', 'N_NN'] 15
+['N_NNP', 'RD_PUNC', 'N_NNP', 'PSP'] 34
+['N_NNP', 'N_NNP', 'N_NNP', 'PSP', 'RP_RPD'] 90
+['N_NN', 'N_NN', 'N_NNP'] 12
+['QT_QTC', 'QT_QTC', 'JJ', 'N_NN'] 4
+['RD_SYM', 'RP_RPD', 'QT_QTC', 'QT_QTC', 'N_NN', 'RD_SYM'] 2
+['JJ', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 20
+['JJ', 'JJ', 'N_NN', 'PSP', 'N_NST'] 26
+['N_NNP', 'N_NNP', 'N_NNP', 'RP_RPD'] 57
+['JJ', 'N_NNP', 'N_NNP', 'PSP'] 154
+['N_NNP', 'N_NN', 'PSP', 'RP_RPD'] 50
+['JJ', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'RD_PUNC'] 20
+['N_NNP', 'N_NN', 'N_NNP', 'N_NNP', 'PSP'] 280
+['RD_PUNC', 'N_NNP', 'N_NNP', 'PSP'] 4
+['N_NNP', 'N_NNP', 'N_NN'] 69
+['JJ', 'N_NNP', 'N_NNP', 'N_NNP'] 54
+['N_NNP', 'N_NN', 'N_NNP', 'N_NNP'] 92
+['DM_DMD', 'PR_PRP', 'N_NN'] 17
+['N_NN', 'N_NNP', 'N_NNP', 'PSP', 'N_NST'] 8
+['JJ', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 240
+['N_NNP', 'N_NN', 'PSP', 'N_NST', 'RP_RPD'] 6
+['DM_DMD', 'JJ', 'RP_RPD', 'N_NN'] 1
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 64
+['RP_INTF', 'JJ', 'N_NN', 'N_NN', 'N_NN', 'PSP'] 3
+['JJ', 'N_NN', 'N_NN', 'PSP', 'RD_PUNC'] 2
+['N_NNP', 'N_NN', 'N_NNP', 'PSP'] 27
+['JJ', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 114
+['QT_QTC', 'N_NN', 'N_NST', 'PSP'] 10
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 650
+['RP_RPD', 'JJ', 'N_NN', 'PSP'] 8
+['QT_QTC', 'N_NN', 'PSP', 'N_NST', 'RP_RPD'] 16
+['QT_QTC', 'JJ', 'N_NNP'] 4
+['N_NN', 'N_NN', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 200
+['DM_DMD', 'N_NST', 'RD_PUNC'] 61
+['JJ', 'N_NN', 'N_NNP', 'N_NNP', 'PSP'] 27
+['N_NN', 'QT_QTC', 'N_NN'] 22
+['N_NN', 'N_NN', 'N_NN', 'N_NN', 'N_NNP', 'N_NNP', 'PSP'] 12
+['QT_QTC', 'RD_SYM', 'QT_QTC', 'N_NN', 'N_NST'] 10
+['QT_QTC', 'PSP', 'N_NST'] 13
+['RP_RPD', 'PR_PRP', 'N_NN', 'PSP', 'N_NST'] 2
+['QT_QTC', 'N_NN', 'RP_RPD', 'N_NN', 'PSP'] 32
+['N_NNP', 'RD_SYM', 'N_NNP', 'N_NNP', 'PSP', 'N_NST'] 32
+['N_NN', 'PSP', 'PSP', 'RD_PUNC'] 28
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP'] 48
+['JJ', 'N_NNP', 'PSP', 'N_NST', 'PSP'] 2
+['N_NNP', 'N_NNP', 'RD_PUNC', 'N_NNP'] 75
+['JJ', 'JJ', 'N_NNP', 'PSP'] 6
+['N_NN', 'N_NN', 'JJ', 'JJ', 'N_NN', 'PSP'] 3
+['QT_QTC', 'QT_QTC', 'QT_QTC', 'QT_QTC', 'N_NN'] 5
+['JJ', 'N_NNP', 'N_NN', 'N_NNP', 'N_NNP', 'PSP'] 4
+['N_NN', 'N_NNP', 'N_NNP', 'N_NNP', 'RD_PUNC'] 116
+['N_NN', 'N_NNP', 'N_NNP', 'N_NNP'] 112
+['QT_QTC', 'N_NN', 'N_NN', 'N_NN', 'PSP'] 51
+['N_NN', 'N_NN', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP', 'N_NST', 'PSP'] 6
+['DM_DMD', 'JJ', 'JJ', 'N_NN'] 5
+['N_NN', 'N_NN', 'N_NN', 'N_NN', 'PSP'] 88
+['PR_PRP', 'N_NN', 'RD_SYM', 'N_NN'] 18
+['DM_DMD', 'N_NN', 'N_NN', 'PSP', 'PSP'] 8
+['RP_RPD', 'QT_QTC', 'QT_QTC', 'N_NN', 'PSP', 'RP_RPD'] 1
+['RD_SYM', 'JJ', 'N_NN'] 1
+['DM_DMD', 'JJ', 'JJ', 'N_NN', 'PSP'] 9
+['N_NNP', 'RD_SYM', 'N_NNP', 'N_NNP', 'PSP'] 114
+['N_NN', 'N_NN', 'N_NN', 'N_NN'] 64
+['N_NN', 'N_NNP', 'N_NNP', 'N_NNP', 'RP_RPD'] 12
+['QT_QTO', 'DM_DMD', 'N_NN'] 4
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP', 'N_NST'] 55
+['JJ', 'N_NNP', 'PSP', 'PSP'] 3
+['PSP', 'N_NNP', 'RD_PUNC'] 8
+['PR_PRP', 'N_NNP', 'PSP'] 2
+['QT_QTO', 'N_NN', 'PSP', 'RP_RPD'] 10
+['N_NN', 'N_NN', 'N_NN', 'PSP', 'PSP'] 48
+['PR_PRP', 'QT_QTO', 'N_NN'] 2
+['JJ', 'QT_QTC', 'N_NN', 'PSP', 'RP_RPD'] 2
+['N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'N_NNP', 'PSP'] 366
+['
